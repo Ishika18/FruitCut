@@ -1,4 +1,4 @@
-# [LIVE](http://fruitcut.azurewebsites.net/)
+
 # FruitCut
 This is my first JavaScript, Html, CSS game.
 
